@@ -1,0 +1,32 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#inputForm .form-group {
+    margin-bottom: 10px;
+}
+
+#inputForm label {
+    font-weight: bold;
+}
+
+.progress {
+    height: 30px;
+}
+
+.progress-bar {
+    line-height: 30px;
+}
+
+#metrics {
+    display: none;
+}
+
+#confusionMatrix {
+    width: 100%;
+    height: 100%;
+}
